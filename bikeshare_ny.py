@@ -246,7 +246,7 @@ def show_raw_data(df):
     nshow = 5
     cols = df.columns
     while indx <= nrows-nshow:
-        see_more = input('\nWould you like to see the raw data (5 rows)? Enter yes or no: ')
+        see_more = input('\nWould you like to see the raw data (5 rows)? Enter no to stop: ')
         if see_more == 'no':
             break
         else:
