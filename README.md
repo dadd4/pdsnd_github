@@ -1,7 +1,7 @@
 ### May 23, 2020
 
 ### Introduction to Python Course Project
-Final project for Udacity Introductio to Python course
+Final project for Udacity Introduction to Python course
 
 ### Description
 Explore bike share data in Chicago, New York City, and Washington.
@@ -13,12 +13,12 @@ trip.
 * Display some statistics about the bike users.
 
 ### Files used
-bikeshare_ny.py: python program
-chicago.csv
-new_york_city.csv
-washington.csv
+1. bikeshare_ny.py: python program
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
 
 ### Credits
-Code written by Norman Yuen.
-Data and guidelines provided by Udacity.
+1. Code written by Norman Yuen.
+2. Data and guidelines provided by Udacity.
 
