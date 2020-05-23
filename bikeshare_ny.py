@@ -2,6 +2,8 @@
 # Project to explore US bikeshare data.
 # Queries user on command to select 1 of 3 cities and computes
 # statistics based on the data.
+#
+# 20200523 Add to git repository
 
 import time
 import pandas as pd
