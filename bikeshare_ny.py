@@ -2,6 +2,8 @@
 # Project to explore US bikeshare data.
 # Queries user on command to select 1 of 3 cities and computes
 # statistics based on the data.
+#
+# 20200523 Add to git repository
 
 import time
 import pandas as pd
@@ -246,7 +248,7 @@ def show_raw_data(df):
     nshow = 5
     cols = df.columns
     while indx <= nrows-nshow:
-        see_more = input('\nWould you like to see the raw data (5 rows)? Enter yes or no: ')
+        see_more = input('\nWould you like to see the raw data (5 rows)? Enter no to stop: ')
         if see_more == 'no':
             break
         else:
